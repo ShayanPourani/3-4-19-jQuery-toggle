@@ -1,0 +1,32 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.emphasize {
+  background-color:#ff0000;
+  color:white;
+  font-size:150%;
+  text-align:center;
+}
+
+.emphasize1 {
+  background-color:#00ff00;
+  color:white;
+  font-size:150%;
+  text-align:center;
+}
+
+.emphasize2 {
+  background-color:#0000ff;
+  color:white;
+  font-size:150%;
+  text-align:center;
+}
